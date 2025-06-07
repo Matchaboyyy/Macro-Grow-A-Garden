@@ -489,7 +489,7 @@ gearItems := ["Watering Can", "Trowel", "Recall Wrench", "Basic Sprinkler", "Adv
              , "Godly Sprinkler", "Lightning Rod", "Master Sprinkler", "Favorite Tool", "Harvest Tool", "Friendship Pot"]
 
 eggItems := ["Common Egg", "Uncommon Egg", "Rare Egg", "Legendary Egg", "Mythical Egg"
-             , "Bug Egg", "Anti Bee Egg"]
+             , "Bug Egg"]
 
 cosmeticItems := ["Cosmetic 1", "Cosmetic 2", "Cosmetic 3", "Cosmetic 4", "Cosmetic 5"
              , "Cosmetic 6",  "Cosmetic 7", "Cosmetic 8", "Cosmetic 9"]
